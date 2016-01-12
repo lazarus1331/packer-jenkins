@@ -1,2 +1,5 @@
 # Don't include data files
 data/*
+
+# ignore images
+packer_cache/*
